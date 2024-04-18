@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **C++, NextJS, ReactJS, Linux**
+- 🌱 I’m currently learning **C++, NextJS, Typescript, Linux**
 
-- 👯 I’m looking to collaborate on [StringWiz](https://github.com/SharonIV0x86/StringWiz)
+- 👯 I’m looking to collaborate on [StringWiz](https://github.com/SharonIV0x86/StringWiz) [LibC-STL](https://github.com/SharonIV0x86/LibC-STL)
 
 - 💬 Ask me about **Linux, Low Level Learning, C/C++**
 
-- 📫 How to reach me **anirudhlakhanpal123@gmail.com**
+- 📫 How to reach me **casesilver777@gmail.com**
 
 - ⚡ Fun fact **I have good humor and I possess a knack for injecting wit into even the most somber of situations.**
 
