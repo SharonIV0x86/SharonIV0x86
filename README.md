@@ -1,6 +1,13 @@
 <h1 align="center">Yo 👋, I'm Anirudh Lakhanpal</h1>
 <h3 align="center">A passionate web developer and enthusiastic practitioner of C++ and Python development, deeply engaged in exploring the realms of deep learning to enrich and elevate digital experiences.</h3>
 
+</p>    
+<a href="https://vaunt.dev/">
+        <img src="https://api.vaunt.dev/v1/github/entities/SharonIV0X86/contributions?format=svg" width="350" />
+    </a>
+   
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharoniv0x86&label=Profile%20views&color=0e75b6&style=flat" alt="sharoniv0x86" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharoniv0x86" alt="sharoniv0x86" /></a> </p>
@@ -18,16 +25,6 @@
 - ⚡ Fun fact **I have good humor and I possess a knack for injecting wit into even the most somber of situations.**
 
 <h3 align="left">Connect with me:</h3>
-
-</p>    
-<a href="https://vaunt.dev/">
-        <img src="https://api.vaunt.dev/v1/github/entities/SharonIV0X86/contributions?format=svg" width="350" />
-    </a>
-    <p>
-  <img src="https://api.vaunt.dev/v1/github/entities/SharonIV0X86/achievements?format=svg&limit=3" width="350" />
-</p>
-</p>
-
 
 
 <p align="left">
