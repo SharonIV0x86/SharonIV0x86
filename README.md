@@ -25,6 +25,10 @@
     </a>
 </p>
 
+<p>
+  <img src="https://api.vaunt.dev/v1/github/entities/SharonIV0X86/achievements?format=svg&limit=3" width="350" />
+</p>
+
 <p align="left">
 <a href="https://linkedin.com/in/anirudh-lakhanpal-0a7138284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-lakhanpal-0a7138284" height="30" width="40" /></a>
 <a href="https://kaggle.com/anirudhlakhanpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anirudhlakhanpal" height="30" width="40" /></a>
