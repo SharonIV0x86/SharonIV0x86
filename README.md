@@ -1,6 +1,8 @@
 <h1 align="center">Yo 👋, I'm Anirudh Lakhanpal </h1>
 <h3 align="center">A passionate web developer and enthusiastic practitioner of C++ and Python development, deeply engaged in exploring the realms of deep learning to enrich and elevate digital experiences.</h3>
 
+[![An image of @sharoniv0x86's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sharoniv0x86)](https://holopin.io/@sharoniv0x86)
+
 </p>    
 <a href="https://vaunt.dev/">
         <img src="https://api.vaunt.dev/v1/github/entities/SharonIV0X86/contributions?format=svg" width="350" />
